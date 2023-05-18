@@ -24,7 +24,7 @@
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
   <div>
-    <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Python.png" title="Python" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Python-Logo.png" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/JavaScript.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/MySQL-Logo.png" title="MySQL" alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Git-Icon.png" title="Git" alt="Git" width="40" height="40"/>
