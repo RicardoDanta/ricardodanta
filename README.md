@@ -6,6 +6,10 @@
 
 <div id="badges" align="center">
   <a href="https://twitter.com/_errede_">
-    <img src="https://img.shields.io/twitter/follow/_errede_?color=blue&logo=twitter&style=for-the-badge"
+    <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=twitter&logo=twitter&style=for-the-badge"
          alt="Twitter Badge" />
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/RicardoDanta">
+    <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=linked%20in&logo=linkedin&style=for-the-badge"
+         alt="LinkedIn Badge" />
 </div>
