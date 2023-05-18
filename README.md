@@ -26,7 +26,7 @@
   <div>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Python.png" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/JavaScript.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/MySQL.png" title="MySQL" alt="MySQL" width="40" height="40"/>
+    <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/MySQL-Logo.png" title="MySQL" alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Git-Icon.png" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   </div>
