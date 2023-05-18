@@ -32,3 +32,9 @@
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Git-Icon.png" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   </div>
+
+---
+  
+### 📊 My Stats:
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RicardoDanta&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
