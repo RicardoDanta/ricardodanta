@@ -12,4 +12,8 @@
   <a href="https://linkedin.com/in/RicardoDanta">
     <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=linked%20in&logo=linkedin&style=for-the-badge"
          alt="LinkedIn Badge" />
+<div id="badges" align="center">
+  <a href="https://instagram.com/_lascosasquepasan_">
+    <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=instagram&logo=instagram&style=for-the-badge"
+         alt="Instagram Badge" />
 </div>
