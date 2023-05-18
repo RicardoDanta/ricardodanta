@@ -18,3 +18,11 @@
          alt="Instagram Badge" />
   </a>
 </div>
+
+---
+
+<div align="left">
+  <h3>🔨 Languages and Tools:</h3>
+  <div>
+    <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>
+  </div>
