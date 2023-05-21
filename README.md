@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1 align="center">Hi, I'm Ricardo 👋</h1>
+  <h1 align="center">Hi, I'm Ricardo! 👋</h1>
   <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="400" />
   <h3 align="center">Software Developer graduated at Holberton School Uruguay</h3>
 </div>
