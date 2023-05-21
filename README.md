@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <p>You can reach me in:</p>
+  <p>You can reach me:</p>
   <a href="https://twitter.com/_errede_">
     <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=twitter&logo=twitter&style=for-the-badge"
          alt="Twitter Badge" />
