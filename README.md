@@ -5,7 +5,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/_errede_" target="_blank">
+  <a href="https://twitter.com/_errede_"
+     target="_blank">
     <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=twitter&logo=twitter&style=for-the-badge"
          alt="Twitter Badge" />
   </a>
