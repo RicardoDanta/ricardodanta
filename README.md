@@ -27,12 +27,24 @@
     <a href="https://lenguajehtml.com/html/">
       <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/HTML5-Logo.png" title="HTML5" alt="HTML" width="40" height="40"/>
     </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/CSS.png" title="CSS" alt="CSS" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org/">
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Python-Logo.png" title="Python" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com/es/what-is/javascript/">
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/JavaScript.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/">
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/MySQL-Logo.png" title="MySQL" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/">
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/Git-Icon.png" title="Git" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/RicardoDanta">
     <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+    </a>
   </div>
 
 ---
