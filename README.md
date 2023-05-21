@@ -24,7 +24,7 @@
 <div align="left">
   <h3>🔨 Languages and Tools:</h3>
   <div>
-    <a href="https://lenguajehtml.com/html/" target="_blank">
+    <a href="https://lenguajehtml.com/html/">
       <img src="https://github.com/RicardoDanta/Images_for_projects/blob/main/HTML5-Logo.png" title="HTML5" alt="HTML" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/es/docs/Web/CSS">
