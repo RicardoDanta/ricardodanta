@@ -6,17 +6,9 @@
 
 <div id="badges" align="center">
   <p>You can reach me:</p>
-  <a href="https://twitter.com/_errede_">
-    <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=twitter&logo=twitter&style=for-the-badge"
-         alt="Twitter Badge" />
-  </a>
   <a href="https://linkedin.com/in/RicardoDanta">
     <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=linked%20in&logo=linkedin&style=for-the-badge"
          alt="LinkedIn Badge" />
-  </a>
-  <a href="https://instagram.com/_lascosasquepasan_">
-    <img src="https://img.shields.io/twitter/follow/RicardoDanta?label=instagram&logo=instagram&style=for-the-badge"
-         alt="Instagram Badge" />
   </a>
 </div>
 
